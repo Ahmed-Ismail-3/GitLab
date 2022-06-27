@@ -1,1 +1,2 @@
 inserting text from local machine to test conf
+inserting text form github remote
